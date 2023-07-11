@@ -3,7 +3,7 @@ midi_mon
 
 ## Description
 
-A [midiglue](https://sigboost.audio/midiglue/) patch that shows MIDI channel when MIDI message received.
+A [midiglue](https://sigboost.audio/midiglue/) patch that shows MIDI channel when receiving MIDI messages.
 
 <img src="ss.png" width="500px">
 
